@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ** Facturador PRO 4 **
 
 
@@ -116,3 +117,6 @@ Contraseña: 123456
 ### Software para grabar pantalla
 Contraseña: camtasia: [Descargar](https://drive.google.com/file/d/1lJ4N3whm9AMRmRl0oW-5ptf0uCx26Eek/view?usp=sharing "Clic")<br>
 
+=======
+# facturador
+>>>>>>> d81706fd5e5ff4991d0056e8d62125243d3888ac
